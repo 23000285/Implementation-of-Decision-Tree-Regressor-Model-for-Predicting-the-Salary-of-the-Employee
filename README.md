@@ -60,7 +60,7 @@ print("\nThe Mean Squared Error:")
 print(mse)
 
 r2=metrics.r2_score(y_test,y_pred)
-print("\nCoefficieny of Determination:")
+print("\nCoefficient of Determination:")
 print(r2)
 
 print("\nPrediction Value:")
