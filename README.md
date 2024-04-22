@@ -90,9 +90,9 @@ print(dt.predict([[5,6]]))
 
 ![alt text](<Screenshot 2024-04-22 201242.png>)
 
-### Coefficieny of Determination:
+### Coefficient of Determination:
 
-![alt text](<Screenshot 2024-04-22 201247.png>)
+![alt text](image.png)
 
 ### Prediction Value:
 
